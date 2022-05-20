@@ -1,8 +1,6 @@
 ###
-Tomoya Ohba
-
-Bachelor of economics
-
+Tomoya Ohba  
+Bachelor of economics  
 Master of Information Science
 
 <!--
