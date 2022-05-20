@@ -1,5 +1,7 @@
-### Hi there 👋
-こんにちは
+###
+Tomoya Ohba
+Bachelor of economics
+Master of Information Science
 
 <!--
 **Tomoya1223/Tomoya1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
